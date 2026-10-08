@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Malik Zaeem Zulfiqar — Software Engineer and AI Engineering" width="100%" />
+  <img src="./assets/header.svg" alt="Malik Zaeem Zulfiqar — Software Engineer and AI Engineer" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/zaim03767">GitHub</a> ·
   <a href="https://github.com/zaim03767/DIGI">Deepfake Detection</a> ·
-  <a href="https://github.com/zaim03767/HVAC-Website">Live Web Project</a>
+  <a href="https://amani-solutions.vercel.app/">My Website</a>
 </p>
 
 ### About
